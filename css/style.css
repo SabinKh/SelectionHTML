@@ -1,0 +1,131 @@
+/* *{
+    color:green;
+} */
+/* p{
+    color: brown;
+} */
+/* selectors */
+/* p{
+    color: rgb(136, 61, 8);
+} */
+/* .test {
+    color: darkolivegreen;
+}
+#exp{
+    color: deepskyblue;
+}
+#test{
+    color: rgb(37, 112, 37);
+}
+#test{
+    color: black;
+} */
+/* .paragraph.test{
+    color: darkblue;
+} */
+/* .paragraph1 .paragraph2{
+    color: red;
+} */
+/* p,span{
+    color: indianred;
+} */
+/* div p{
+    color: indigo;
+}
+div~p{
+    color: lawngreen;
+} */
+/* div>p{
+    color: lawngreen;
+} */
+/* [class]{
+    color: red;
+} */
+/* [class=test]{
+    color: red;
+} */
+/* a:active{
+    background-color:yellow;
+} */
+
+/* p::after{
+    content: "-remember";
+} */
+/* input:checked {
+    height: 50px;
+    width: 60;
+} */
+/* p:empty{
+    width: 500px;
+    height: 300px;
+    background-color: yellow;
+} */
+/* input[type=text]:enabled{
+    background-color: yellow;
+}
+input[type=text]:disabled{
+    background-color: tomato;
+} */
+/* p::first-letter{
+    font-size: large;
+    color: tomato;
+}
+input:focus{
+    background-color: yellowgreen;
+}
+input:in-range{
+    border: violet;
+}
+a:hover {
+    background-color: yellow;
+}
+::marker{
+    color: red;
+} */
+:not(p){
+    color: royalblue;
+}
+/* :root{
+    background-color: salmon;
+} */
+a:visited{
+    color: darkgreen;
+}
+/* color */
+/* p{
+    color: darkslateblue;
+} */
+/* 1. 6liq format
+2. 3luk format */
+/* p{
+    color: #ff0000;
+}
+p{
+    color: #000000;
+}
+p{
+    color: rgb(0, 255, 150);
+} */
+/* p{
+    color: rgba(200, 0, 100, .3);
+} */
+/* .main{
+    width: 500px;
+    height: 550px;
+    background-image: url(../photo/photo-1508921912186-1d1a45ebb3c1.jpg);
+} */
+/* body{
+     background-image: url(../photo/photo-1508921912186-1d1a45ebb3c1.jpg);
+     background-repeat: no-repeat;
+     background-attachment: scroll;
+     
+} */
+div{
+    border: 2px dashed black;
+    height: 600px;
+    background-attachment: fixed;
+    background-image: url(../photo/photo-1508921912186-1d1a45ebb3c1.jpg);
+    /* background-position: bottom center; */
+    /* background-size: contain; */
+    background-size: cover;
+}
